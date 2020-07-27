@@ -34,6 +34,7 @@ switch(randomNumber) {
 }
 console.log(eightBall);
 
+//if else method 
 // if (randomNumber == 1) {
 //     eightBall = "It is certain";
 // } else if (randomNumber == 2) {
